@@ -1,0 +1,8 @@
+  
+{
+    "env": {
+        "MONGO_ATLAS_PW": "node-shop",
+        "CONNECTION":"mongodb+srv://ecomm:ecomm@cluster0.1bwkk.mongodb.net/ecomm?retryWrites=true&w=majority",
+         "JWT_KEY": "secret"
+    }
+}
